@@ -14,4 +14,14 @@ $ npm start
 ## UI
 
 ### Login
-![login](https://github.com/jocogum10/job-application-tracker-fe/blob/main/public/login.PNG)
+![login](https://github.com/jocogum10/slack-app-react/blob/main/public/login.PNG)
+
+### Signup
+![signup](https://github.com/jocogum10/slack-app-react/blob/main/public/signup.PNG)
+
+### Homepage
+![home](https://github.com/jocogum10/slack-app-react/blob/main/public/homepage.PNG)
+
+
+### Dashboard
+![dashboard](https://github.com/jocogum10/slack-app-react/blob/main/public/dashboard.PNG)
